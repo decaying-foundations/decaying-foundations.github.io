@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Decaying Foundations</title>
+    <link>https://decaying.systems/posts/</link>
+    <description>Recent content in Posts on Decaying Foundations</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Mar 2020 16:33:42 +0200</lastBuildDate>
+    
+	<atom:link href="https://decaying.systems/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>[001] Algorithms of Oppression</title>
+      <link>https://decaying.systems/posts/001-algorithms-of-oppression/</link>
+      <pubDate>Sun, 22 Mar 2020 16:33:42 +0200</pubDate>
+      
+      <guid>https://decaying.systems/posts/001-algorithms-of-oppression/</guid>
+      <description>The second installment of the series brings us a decade back before events in the opening part took place.
+A bunch of neighboring countries formed a Union, known as commonWealth, where technocracy was prevalent. It was a response to ever-growing economic challenges, changing social norms, and rising immigration. Globalization and rising automation have made life more insecure for the working and middle classes, with privileged people concentrating in the cities, leaving rural areas less habited.</description>
+    </item>
+    
+    <item>
+      <title>[000] It Has Already Begun</title>
+      <link>https://decaying.systems/posts/000-it-has-already-begun/</link>
+      <pubDate>Sun, 22 Mar 2020 16:28:22 +0200</pubDate>
+      
+      <guid>https://decaying.systems/posts/000-it-has-already-begun/</guid>
+      <description>This is the first installment of &amp;lsquo;Decaying Foundations&amp;rsquo; series. It opens up in the world, which resembles ours very much. A parallel universe, if you will. The year is unknown, but judging from the technology and people, it should be somewhere around 2020.
+This short mix offers a glimpse in that world, where multiple contributing factors slowly introduce instability and chaos in various regions. It happens gradually, almost undetected. Seemingly random things tend to be discarded until it&amp;rsquo;s clear that it definitely isn&amp;rsquo;t.</description>
+    </item>
+    
+    <item>
+      <title>What This Is All About</title>
+      <link>https://decaying.systems/posts/what-this-is-all-about/</link>
+      <pubDate>Sun, 22 Mar 2020 01:14:43 +0200</pubDate>
+      
+      <guid>https://decaying.systems/posts/what-this-is-all-about/</guid>
+      <description>You might have stumbled upon this site by randomly browsing the internet, or following a link from one of the mixes accompanying this site and been wondering: ok, so what this is all about?
+&amp;lsquo;Decaying Foundations&amp;rsquo; is a project dedicated to unveiling some of the problems our world is facing. It uses short fiction stories and electronic music to create and shape the fictional world, which resembles ours so much. A reflections from the (im)possible future, if you will.</description>
+    </item>
+    
+  </channel>
+</rss>
